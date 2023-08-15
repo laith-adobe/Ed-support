@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
 
 *{
-    font-family: 'Barriecito', cursive;
+    font-family: Barriecito, cursive;
 }
 
 .error-message {
