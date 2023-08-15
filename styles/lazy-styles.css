@@ -1,5 +1,12 @@
 /* add global styles that can be loaded post LCP here */
-.error-message{
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+
+*{
+    font-family: 'Barriecito', cursive;
+}
+
+.error-message {
     color: red;
     font-weight: bold;
 }
